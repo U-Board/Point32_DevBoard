@@ -8,7 +8,6 @@
 
 ***
 ![Turtle32](https://github.com/user-attachments/assets/91167c4e-2200-475e-b3c0-fd53b2182f84)
-)
 
 ***
 
