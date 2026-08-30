@@ -7,7 +7,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ***
-![Turtle32](https://github.com/user-attachments/assets/91167c4e-2200-475e-b3c0-fd53b2182f84)
+<img width="1920" height="1080" alt="point-pinout-white-ru" src="https://github.com/user-attachments/assets/ee4b0dd9-4b6b-4523-af84-a0ca0d6fdd4d" />
 
 ***
 
